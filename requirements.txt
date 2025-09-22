@@ -1,0 +1,6 @@
+
+nmap
+hydra
+crackmapexec (for SMB) [optional but recommended for SMB]
+python3 packages: requests, beautifulsoup4
+pip3 install requests beautifulsoup4
